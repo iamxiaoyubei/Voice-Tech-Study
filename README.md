@@ -1,9 +1,17 @@
 # Video
+[哥伦比亚大学ASR课程](http://www.ee.columbia.edu/~stanchen/fall12/e6870/outline.html)
+
 [爱丁堡ASR课程](http://www.inf.ed.ac.uk/teaching/courses/asr/index-2019.html)
 
 [CMU ASR课程](http://www.speech.cs.cmu.edu/15-492/)
 
 [台湾大学数位语音处理](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/104S204)
+
+[斯坦福224S](http://web.stanford.edu/class/cs224s/)
+
+[YORK university](https://wiki.eecs.yorku.ca/course_archive/2012-13/F/6328/start)
+
+[爱丁堡大学Simon King教授语音课](http://www.speech.zone/courses/)
 
 # Book
 [剑桥大学的HTK工具包的手册，HTK Book](http://htk.eng.cam.ac.uk/docs/docs.shtml)
@@ -56,3 +64,7 @@ https://www.zhihu.com/question/39701966/answer/88084026
 https://www.msra.cn/zh-cn/news/features/book-recommendation-speech
 https://cloud.tencent.com/developer/article/1031646
 https://book.douban.com/review/8658211/
+https://blog.csdn.net/chenghaoy/article/details/82761586
+http://ftli.farbox.com/post/automatic-speech-recognition-asr-courses
+http://zhaoshuaijiang.com/2019/02/15/end-to-end-asr/
+https://antkillerfarm.github.io/speech/2018/04/16/speech.html
