@@ -48,6 +48,8 @@ Kaldi https://github.com/kaldi-asr
 
 Eesen https://github.com/srvk/eesen
 
+CNTK https://github.com/Microsoft/CNTK
+
 # Paper
 L. R. Rabiner, “A tutorial on hidden Markov models and selected applications in speech recognition,” Proceedings of the IEEE, vol. 77, no. 2, pp. 257–286, 1989
 
